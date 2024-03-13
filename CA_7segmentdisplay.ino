@@ -1,8 +1,6 @@
 
-//Seven segment display with arduino uno
-//Dated 5 September 2018
-//Written by: Usman Ali Butt
-//Property of: www.microcontroller-project.com 
+//Seven segment display with arduino nano
+
 void setup() {   
              
 DDRD=0xFF; //Port-D as of arduino uno as OutPut
